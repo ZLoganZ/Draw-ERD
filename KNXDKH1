@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T01:02:51.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="nUkO0xhZErpU1EcqAajW" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T01:08:27.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="p5eVJ4ZqQ2th7MUThAl1" version="15.7.0" type="github">
   <diagram id="s_gxiGKru4B18L8HCGg-" name="Trang-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,13 +16,13 @@
             <mxPoint x="710" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-6" value="Làm trùm IT" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-6" value="Làm trùm IT" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=0;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="497" y="80" width="175" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-7" value="Nắm rõ các kỹ năng lập trình" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=1;glass=0;sketch=0;fontSize=14;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-7" value="Nắm rõ các kỹ năng lập trình" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=1;glass=0;sketch=0;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="337" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-8" value="Có kiến thức sâu rộng về các công nghệ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=1;glass=0;sketch=0;fontSize=14;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-8" value="Có kiến thức sâu rộng về các công nghệ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=1;glass=0;sketch=0;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="712" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8KiTwAY5q5TZGpPQ_7Br-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8KiTwAY5q5TZGpPQ_7Br-7">
@@ -49,16 +49,16 @@
             <mxPoint x="892" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-19" value="Tốt nghiệp sớm hoặc đúng hạn" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=14;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-19" value="Tốt nghiệp sớm hoặc đúng hạn" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="217" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-20" value="Đi thực tập ở các công ty danh tiếng" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=14;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-20" value="Đi thực tập ở các công ty danh tiếng" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="457" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-21" value="Tự học thêm về các công nghệ" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=14;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-21" value="Tự học thêm về các công nghệ" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="592" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-22" value="Thực hành các công nghệ đã học" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=14;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="8KiTwAY5q5TZGpPQ_7Br-22" value="Thực hành các công nghệ đã học" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;perimeterSpacing=0;imageWidth=24;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="832" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
